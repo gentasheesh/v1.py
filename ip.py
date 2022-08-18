@@ -26,7 +26,7 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        ]
 
 
-print("Attack initiated no ip: %s e Porta: %s"%(orgip,port))
+print(" Attack by Genta Script.py ip: %s e Porta: %s"%(orgip,port))
 
             
 
